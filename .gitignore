@@ -1,0 +1,7 @@
+.vscode/
+.vscode-server/
+__pycache__/
+*.log
+*.tmp
+.ssh/
+
