@@ -160,19 +160,19 @@
 # Input: 5, 5, 5  
 # Output: Equilateral triangle
 
-a = int(input("Enter first length side of a triangle: "))
-b = int(input("Enter second length side of a triangle: "))
-c = int(input("Enter third length side of a triangle: "))
+# a = int(input("Enter first length side of a triangle: "))
+# b = int(input("Enter second length side of a triangle: "))
+# c = int(input("Enter third length side of a triangle: "))
 
-if (a+b > c) and (a+c > b) and (b+c > a):
-    if a == b and b == c and a == c:
-        print("Equilateral triangle")
-    elif a == b or a == c or b == c:
-        print("Isosceles triangle")
-    else:
-        print("Scelene triangle")
-else:
-    print("Not a triangle")
+# if (a+b > c) and (a+c > b) and (b+c > a):
+#     if a == b and b == c and a == c:
+#         print("Equilateral triangle")
+#     elif a == b or a == c or b == c:
+#         print("Isosceles triangle")
+#     else:
+#         print("Scelene triangle")
+# else:
+#     print("Not a triangle")
 
 
 

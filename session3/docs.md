@@ -31,3 +31,5 @@ sequence is the object that has starting point and ending point
 
 # for char in "Hello":
     
+
+---> ### **range(start, stop, step)**
