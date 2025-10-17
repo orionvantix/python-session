@@ -2,7 +2,15 @@
 # Task 1: Print this following message by getting values from the dictionary
 # Message: Company TechNova is located in San Francisco, USA.
 
-dicti
+my_dict = {
+    'company': 'TechNova', 
+    'city': 'San Francisco', 
+    'country': 'USA'
+    }
+for 
+
+#           # print("Company", my_dict["company"], " is located in ", my_dict["city"],",", my_dict["country"])
+# print(f'Company {my_dict["company"]} is located in {my_dict["city"]}, {my_dict["country"]}')
 
 # ----------------------------------------------------------------------------------------------------------------------------
 
@@ -12,6 +20,9 @@ dicti
 # Example Output:
 #  Out of stock: Bluetooth Speaker
 #  Out of stock: Wireless Charger
+
+product_data = {'product': 'Bluethooth Speaker','product': 'Wireless Charger'}
+print(f'Out of stock: {product_data["product"]}')
 
 
 # ----------------------------------------------------------------------------------------------------------------------------
